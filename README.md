@@ -1,5 +1,5 @@
 # CS4843-CloudFormationVPC
-Set up of VPC through yaml and json files in AWS
+Set up of Cloud Infrastructure in AWS through yaml and json files and CloudFormation
 
 # Diagram of Infrastructure
 ![alt text](https://github.com/amoren11/CS4843-CloudformationVPC/blob/main/AWS_Cloud_Infrastructure_Diagram.png?raw=true)
